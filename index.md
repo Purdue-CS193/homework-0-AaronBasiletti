@@ -16,6 +16,7 @@ the various parts of the website
 
 - and reminds me of experimenting
 - space
+
 1. with HTML and CSS
 2. in freshman year.
 
