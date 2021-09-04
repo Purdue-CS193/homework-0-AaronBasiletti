@@ -4,6 +4,23 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# This is my attempt at editing
+
+```
+the various parts of the website
+```
+
+## in the ways the example site shows.
+
+### It's rather fun so far
+
+- and reminds me of experimenting
+- space
+1. with HTML and CSS
+2. in freshman year.
+
+**but so far** _this is much_ `easier than HTML.`
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
