@@ -1,26 +1,13 @@
-## Welcome to GitHub Pages
+# Aaron Basiletti's First CS193 Homework
+### Things I enjoy about CS193
+- I enjoy how relaxed the class feels.
+- The instructors are fun and passionate about the class.
+- No textbook is required, which means less money spent. 
+- I will definitely appreciate the lack of midterm/final exams when the time comes. 
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks for reading!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# This is my attempt at editing
-
-```
-the various parts of the website
-```
-
-## in the ways the example site shows.
-
-### It's rather fun so far
-
-- and reminds me of experimenting
-- space
-
-1. with HTML and CSS
-2. in freshman year.
-
-**but so far** _this is much_ `easier than HTML.`
+_I'm keeping the following section for future reference._
 
 ### Markdown
 
